@@ -4,10 +4,10 @@
 
 Grup Üyeleri:
 
-1190505021 – Metin Birikim Karaçay
-1190505060 – Amine Hatun Ergin
-5190505047 - Caner Kenanoğlu
-1190505040 - Hattap Emre Tanış
+1190505021 – Metin Birikim Karaçay <br>
+1190505060 – Amine Hatun Ergin <br>
+5190505047 - Caner Kenanoğlu <br>
+1190505040 - Hattap Emre Tanış <br>
 
 # Kaynaklar
 
